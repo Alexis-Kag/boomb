@@ -1,0 +1,54 @@
+* {
+  box-sizing: border-box;
+}
+
+.navbar {
+  background-color: rgb(170 212 220);
+}
+
+.btn-info {
+  color: #1e194b;
+  background-color: #d7eef3;
+  border: none;
+}
+
+.btn-info:hover {
+  color: #ffffff;
+  background-color: rgb(170 212 220);
+}
+
+.form-control {
+  background-color: #d7eef3;
+}
+.carousel-control-prev-icon {
+  background-image: url(img/left-arrow.svg);
+}
+.carousel-control-next-icon {
+  background-image: url(img/next.svg);
+}
+
+.carousel-control-prev {
+  width: 20px;
+}
+
+.carousel-control-next {
+  width: 20px;
+}
+.carousel-control-prev {
+  left: -35px;
+}
+.carousel-control-next {
+  right: -35px;
+}
+
+.contSlid {
+  padding: 0;
+}
+
+footer {
+  background-color: rgb(170 212 220);
+}
+footer a {
+  color: rgb(233, 233, 233);
+  text-decoration: none;
+}
